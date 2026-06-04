@@ -5,12 +5,14 @@ Hi there, I'm Anna!
 
 [Русская версия](README_RU.md)
 
-- I am an aspiring technical writer from Saint Petersburg.
-- My main interests include technical documentation,
-developer experience, and knowledge management.
-- I enjoy transforming complex technical concepts into
-clear and structured documentation.
-- Currently, I am building my portfolio and improving my
+Bachelor's Student | Aspiring Technical Writer
+HSE University Saint Petersburg
+
+📄 Download CV (Anna_Mochalova_techwriter_ENG.pdf)
+
+I am an aspiring technical writer from Saint Petersburg. My main interests include technical documentation,
+developer experience, and knowledge management. I enjoy transforming complex technical concepts into
+clear and structured documentation. Currently, I am building my portfolio and improving my
 skills in API documentation, Markdown, and Git-based workflows.
 
 ## Professional Interests
@@ -42,9 +44,10 @@ Saint Petersburg, Russia
 - Currently learning Chinese
 
 ## Projects
-
 ### Personal GitHub Portfolio
 2025
+
+https://github.com/hudanuga/kana-dojo
 
 Created and maintained repositories for practicing
 technical documentation and Git workflows.
