@@ -8,7 +8,7 @@ Hi there, I'm Anna!
 Bachelor's Student | Aspiring Technical Writer
 HSE University Saint Petersburg
 
-📄 [Download CV] (Anna_Mochalova_techwriter_ENG.pdf)
+📄 [Download CV](Anna_Mochalova_techwriter_ENG.pdf)
 
 I am an aspiring technical writer from Saint Petersburg. My main interests include technical documentation,
 developer experience, and knowledge management. I enjoy transforming complex technical concepts into
